@@ -173,6 +173,11 @@ body > .logo {
   padding: 20px 0;
   color: #444;
 }
+@media (max-width: 500px) {
+  .siteList .addButton {
+    width: 140px;
+  }
+}
 
 .siteList .addButton .icon {
   width: 64px;
