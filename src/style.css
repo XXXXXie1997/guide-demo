@@ -27,7 +27,13 @@ img {
 body {
   background: #eeeeee;
   margin: 20px;
+  background-image: url("./img/background.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.2);
 }
+
 @media (min-width: 500px) {
   .globalHeader {
     margin: 60px 0 100px;
