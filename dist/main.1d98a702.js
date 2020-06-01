@@ -132,7 +132,7 @@ var hashMap = xObject || [{
   logo: "G",
   url: "https://github.com"
 }, {
-  logo: "b",
+  logo: "B",
   url: "https://www.baidu.com"
 }];
 
@@ -187,4 +187,4 @@ $(document).on("keypress", function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=/main.2ae70160.js.map
+//# sourceMappingURL=/main.1d98a702.js.map
